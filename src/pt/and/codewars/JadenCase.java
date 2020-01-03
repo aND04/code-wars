@@ -16,8 +16,4 @@ public class JadenCase {
 		return result;
 	}
 
-	public static void main(String[] args) {
-		System.err.println(toJadenCase("most trees are blue"));
-	}
-
 }

@@ -12,8 +12,4 @@ public class BitCounting {
 		return binary.length() - binary.replace("1", "").length();
 	}
 
-	public static void main(String[] args) {
-		countBits(1234);
-	}
-
 }
